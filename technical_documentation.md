@@ -9,6 +9,9 @@ GitLab dashboard for viewing assigned issues and milestones
 **PURPOSE:**  
 Create dashboard for fast analyze tasks and the workload of the developers
 
+**LINKS:**
+1. We can use that NodeJS library https://www.npmjs.com/package/gitlab
+
 **TASK:**
 1. When logging in, the user must enter a username and password.  
 Request example:  
